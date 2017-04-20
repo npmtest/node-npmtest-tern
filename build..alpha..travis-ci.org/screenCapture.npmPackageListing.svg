@@ -1,0 +1,206 @@
+<svg height="3246" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3246" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 00:32:49 +0000  1306103 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 00:32:49 +0000     1331 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 00:32:49 +0000     2126 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 00:32:49 +0000     1094 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 00:32:49 +0000     1945 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 00:32:49 +0000     2832 bytes  bin/condense</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 00:32:49 +0000     8184 bytes  bin/tern</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 00:32:49 +0000      332 bytes  bin/test</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 00:32:49 +0000      333 bytes  bin/update_authors.sh</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 00:32:49 +0000   184062 bytes  defs/browser.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 00:32:49 +0000    57954 bytes  defs/chai.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 00:32:49 +0000   113896 bytes  defs/ecmascript.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 00:32:49 +0000    61355 bytes  defs/jquery.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 00:32:49 +0000    21530 bytes  defs/underscore.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 00:32:49 +0000     5465 bytes  doc/BACKERS.txt</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 00:32:49 +0000      152 bytes  doc/Makefile</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 00:32:49 +0000     1174 bytes  doc/asciidoc.conf</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 00:32:49 +0000     1638 bytes  doc/demo/demo.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 00:32:49 +0000     6270 bytes  doc/demo/demo.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 00:32:49 +0000     6831 bytes  doc/demo/index.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 00:32:49 +0000     9440 bytes  doc/demo/polyfill.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 00:32:49 +0000    41884 bytes  doc/demo/underscore.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 00:32:49 +0000     3390 bytes  doc/docs.css</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 00:32:49 +0000    45765 bytes  doc/header.svg</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 00:32:49 +0000     1785 bytes  doc/logo.png</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 00:32:49 +0000    71313 bytes  doc/manual.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 00:32:49 +0000    54033 bytes  doc/manual.txt</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 00:32:49 +0000     4176 bytes  emacs/tern-auto-complete.el</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 00:32:49 +0000    26903 bytes  emacs/tern.el</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 00:32:49 +0000    15993 bytes  index.html</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 00:32:49 +0000     2891 bytes  lib/comment.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 00:32:49 +0000    10374 bytes  lib/condense.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 00:32:49 +0000    25588 bytes  lib/def.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 00:32:49 +0000    75983 bytes  lib/infer.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 00:32:49 +0000     1565 bytes  lib/signal.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 00:32:49 +0000    39982 bytes  lib/tern.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 00:32:49 +0000     6699 bytes  package.json</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 00:32:49 +0000    47000 bytes  plugin/angular.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 00:32:49 +0000     6658 bytes  plugin/commonjs.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 00:32:49 +0000     2447 bytes  plugin/complete_strings.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 00:32:49 +0000    19484 bytes  plugin/doc_comment.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 00:32:49 +0000     4537 bytes  plugin/es_modules.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 00:32:49 +0000    13755 bytes  plugin/modules.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 00:32:49 +0000   193640 bytes  plugin/node.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 00:32:49 +0000     2701 bytes  plugin/node_resolve.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 00:32:49 +0000    19620 bytes  plugin/requirejs.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 00:32:49 +0000     2837 bytes  plugin/webpack.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 00:32:49 +0000       82 bytes  test/cases/angular/config.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 00:32:49 +0000      195 bytes  test/cases/angular/filters.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 00:32:49 +0000     1397 bytes  test/cases/angular/main.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 00:32:49 +0000      355 bytes  test/cases/angular_service.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 00:32:49 +0000       87 bytes  test/cases/arguments.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 00:32:49 +0000       72 bytes  test/cases/array_holes.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 00:32:49 +0000      333 bytes  test/cases/arrow.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 00:32:49 +0000      226 bytes  test/cases/autothis.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 00:32:49 +0000      429 bytes  test/cases/bind.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 00:32:49 +0000      177 bytes  test/cases/block_scope.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 00:32:49 +0000      651 bytes  test/cases/blowup.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 00:32:49 +0000      256 bytes  test/cases/browser.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 00:32:49 +0000      778 bytes  test/cases/builtins.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 00:32:49 +0000      101 bytes  test/cases/catch_error.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 00:32:49 +0000      258 bytes  test/cases/cautiouspropagation.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 00:32:49 +0000      847 bytes  test/cases/class.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-20 00:32:49 +0000      109 bytes  test/cases/complete_strings.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-20 00:32:49 +0000      133 bytes  test/cases/computedprop.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-20 00:32:49 +0000       74 bytes  test/cases/contextcomplete.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-20 00:32:49 +0000      156 bytes  test/cases/copyprops.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-20 00:32:49 +0000      225 bytes  test/cases/ctorpattern.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-20 00:32:49 +0000       39 bytes  test/cases/def_type_string.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-20 00:32:49 +0000      398 bytes  test/cases/defineProperty.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-20 00:32:49 +0000      100 bytes  test/cases/defs/span.json</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-20 00:32:49 +0000       92 bytes  test/cases/defs/string.json</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-20 00:32:49 +0000      536 bytes  test/cases/destructure.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-20 00:32:49 +0000     2105 bytes  test/cases/docstrings.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-20 00:32:49 +0000      248 bytes  test/cases/effects.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-20 00:32:49 +0000      120 bytes  test/cases/empty_overridden_prop.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-20 00:32:49 +0000      459 bytes  test/cases/es6-features.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-20 00:32:49 +0000       83 bytes  test/cases/es_modules/blah.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-20 00:32:49 +0000       86 bytes  test/cases/es_modules/foo.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-20 00:32:49 +0000      436 bytes  test/cases/es_modules/main.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-20 00:32:49 +0000       33 bytes  test/cases/es_modules/reexp.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-20 00:32:49 +0000     1428 bytes  test/cases/extends.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-20 00:32:49 +0000      467 bytes  test/cases/finddef.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-20 00:32:49 +0000      594 bytes  test/cases/findref.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-20 00:32:49 +0000       68 bytes  test/cases/fn_arguments.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-20 00:32:49 +0000      310 bytes  test/cases/for_of.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-20 00:32:49 +0000      256 bytes  test/cases/generator.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-20 00:32:49 +0000      534 bytes  test/cases/generic_each.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-20 00:32:49 +0000      140 bytes  test/cases/getter.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-20 00:32:49 +0000       58 bytes  test/cases/global_this.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-20 00:32:49 +0000     1002 bytes  test/cases/hint-objlit.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-20 00:32:49 +0000      420 bytes  test/cases/hint_browser.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-20 00:32:49 +0000     9986 bytes  test/cases/hint_ecma5.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-20 00:32:49 +0000      207 bytes  test/cases/hint_simple.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-20 00:32:49 +0000       71 bytes  test/cases/in_comment.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-20 00:32:49 +0000      345 bytes  test/cases/indirect_class.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-20 00:32:49 +0000      339 bytes  test/cases/infinite-expansion.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-20 00:32:49 +0000      131 bytes  test/cases/jquery_event.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-20 00:32:49 +0000     3319 bytes  test/cases/jsdoc.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-20 00:32:49 +0000      412 bytes  test/cases/map.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-20 00:32:49 +0000      133 bytes  test/cases/merge.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-20 00:32:49 +0000      474 bytes  test/cases/mixin.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-20 00:32:49 +0000      185 bytes  test/cases/new_array.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-20 00:32:49 +0000      258 bytes  test/cases/new_to_prototype.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-20 00:32:49 +0000       20 bytes  test/cases/node/binary.node</tspan>
+<tspan x="10" y="1706">105.  2017-04-20 00:32:49 +0000       62 bytes  test/cases/node/dir/index.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-20 00:32:49 +0000       21 bytes  test/cases/node/dir/lib/other.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-20 00:32:49 +0000       54 bytes  test/cases/node/dir/lib/relative.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-20 00:32:49 +0000       71 bytes  test/cases/node/exportfunc.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-20 00:32:49 +0000       43 bytes  test/cases/node/localfile.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-20 00:32:49 +0000     2539 bytes  test/cases/node/main.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-20 00:32:49 +0000       93 bytes  test/cases/node_exports.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-20 00:32:49 +0000       79 bytes  test/cases/node_origin_paths.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-20 00:32:49 +0000      522 bytes  test/cases/object_create.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-20 00:32:49 +0000      218 bytes  test/cases/objectlit.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-20 00:32:49 +0000      175 bytes  test/cases/objnames.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-20 00:32:49 +0000      210 bytes  test/cases/order_of_definition.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-20 00:32:49 +0000      178 bytes  test/cases/phantom_object.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-20 00:32:49 +0000      109 bytes  test/cases/plus.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-20 00:32:49 +0000     1627 bytes  test/cases/promise.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-20 00:32:49 +0000      249 bytes  test/cases/proto.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-20 00:32:49 +0000      347 bytes  test/cases/protoname.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-20 00:32:49 +0000       86 bytes  test/cases/replace_bogus_prop.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-20 00:32:49 +0000       70 bytes  test/cases/requirejs/bar.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-20 00:32:49 +0000       89 bytes  test/cases/requirejs/baz.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-20 00:32:49 +0000       28 bytes  test/cases/requirejs/foo.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-20 00:32:49 +0000      108 bytes  test/cases/requirejs/func.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-20 00:32:49 +0000     1458 bytes  test/cases/requirejs/main.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-20 00:32:49 +0000       79 bytes  test/cases/requirejs/module_exports.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-20 00:32:49 +0000       79 bytes  test/cases/requirejs/named.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-20 00:32:49 +0000       77 bytes  test/cases/requirejs/requireme.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-20 00:32:49 +0000      116 bytes  test/cases/requirejs/simplifiedcommon.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-20 00:32:49 +0000       61 bytes  test/cases/requirejs/subdir/zap.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-20 00:32:49 +0000       68 bytes  test/cases/requirejs/useexports.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-20 00:32:49 +0000      161 bytes  test/cases/requirejs_config/main.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-20 00:32:49 +0000      169 bytes  test/cases/set.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-20 00:32:49 +0000      215 bytes  test/cases/simple.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-20 00:32:49 +0000      344 bytes  test/cases/simple_generic.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-20 00:32:49 +0000       45 bytes  test/cases/span_from_def.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-20 00:32:49 +0000      502 bytes  test/cases/super.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-20 00:32:49 +0000      144 bytes  test/cases/symbol.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-20 00:32:49 +0000      197 bytes  test/cases/template.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-20 00:32:49 +0000      741 bytes  test/cases/underscore.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-20 00:32:49 +0000       31 bytes  test/cases/webpack/component/foo.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-20 00:32:49 +0000      310 bytes  test/cases/webpack/main.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-20 00:32:49 +0000      192 bytes  test/cases/webpack/webpack.config.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-20 00:32:49 +0000     3395 bytes  test/condense.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-20 00:32:49 +0000       56 bytes  test/condense/add_to_old.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-20 00:32:49 +0000      233 bytes  test/condense/add_to_old.json</tspan>
+<tspan x="10" y="2410">149.  2017-04-20 00:32:49 +0000      164 bytes  test/condense/angular_simple.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-20 00:32:49 +0000      680 bytes  test/condense/angular_simple.json</tspan>
+<tspan x="10" y="2442">151.  2017-04-20 00:32:49 +0000       28 bytes  test/condense/array.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-20 00:32:49 +0000      337 bytes  test/condense/array.json</tspan>
+<tspan x="10" y="2474">153.  2017-04-20 00:32:49 +0000       49 bytes  test/condense/basic.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-20 00:32:49 +0000      293 bytes  test/condense/basic.json</tspan>
+<tspan x="10" y="2506">155.  2017-04-20 00:32:49 +0000       35 bytes  test/condense/double_ref.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-20 00:32:49 +0000      163 bytes  test/condense/double_ref.json</tspan>
+<tspan x="10" y="2538">157.  2017-04-20 00:32:49 +0000       29 bytes  test/condense/extend_foo.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-20 00:32:49 +0000       26 bytes  test/condense/fn.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-20 00:32:49 +0000      101 bytes  test/condense/fn.json</tspan>
+<tspan x="10" y="2586">160.  2017-04-20 00:32:49 +0000       33 bytes  test/condense/function_prop.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-20 00:32:49 +0000      176 bytes  test/condense/function_prop.json</tspan>
+<tspan x="10" y="2618">162.  2017-04-20 00:32:49 +0000       32 bytes  test/condense/generic.js</tspan>
+<tspan x="10" y="2634">163.  2017-04-20 00:32:49 +0000      108 bytes  test/condense/generic.json</tspan>
+<tspan x="10" y="2650">164.  2017-04-20 00:32:49 +0000       32 bytes  test/condense/ignore_newer.js</tspan>
+<tspan x="10" y="2666">165.  2017-04-20 00:32:49 +0000      230 bytes  test/condense/ignore_newer.json</tspan>
+<tspan x="10" y="2682">166.  2017-04-20 00:32:49 +0000       26 bytes  test/condense/node_export_function_a.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-20 00:32:49 +0000       44 bytes  test/condense/node_fn_export.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-20 00:32:49 +0000      188 bytes  test/condense/node_fn_export.json</tspan>
+<tspan x="10" y="2730">169.  2017-04-20 00:32:49 +0000       51 bytes  test/condense/node_other_module_type_ref.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-20 00:32:49 +0000      395 bytes  test/condense/node_other_module_type_ref.json</tspan>
+<tspan x="10" y="2762">171.  2017-04-20 00:32:49 +0000      146 bytes  test/condense/node_require_private.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-20 00:32:49 +0000       41 bytes  test/condense/node_require_private.json</tspan>
+<tspan x="10" y="2794">173.  2017-04-20 00:32:49 +0000       62 bytes  test/condense/node_simple.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-20 00:32:49 +0000      334 bytes  test/condense/node_simple.json</tspan>
+<tspan x="10" y="2826">175.  2017-04-20 00:32:49 +0000       70 bytes  test/condense/proto.js</tspan>
+<tspan x="10" y="2842">176.  2017-04-20 00:32:49 +0000      288 bytes  test/condense/proto.json</tspan>
+<tspan x="10" y="2858">177.  2017-04-20 00:32:49 +0000       27 bytes  test/condense/recursive.js</tspan>
+<tspan x="10" y="2874">178.  2017-04-20 00:32:49 +0000      152 bytes  test/condense/recursive.json</tspan>
+<tspan x="10" y="2890">179.  2017-04-20 00:32:49 +0000      112 bytes  test/condense/ref_in_type.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-20 00:32:49 +0000      248 bytes  test/condense/ref_in_type.json</tspan>
+<tspan x="10" y="2922">181.  2017-04-20 00:32:49 +0000       28 bytes  test/condense/ref_to_old.js</tspan>
+<tspan x="10" y="2938">182.  2017-04-20 00:32:49 +0000      106 bytes  test/condense/ref_to_old.json</tspan>
+<tspan x="10" y="2954">183.  2017-04-20 00:32:49 +0000       18 bytes  test/condense/requirejs_const.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-20 00:32:49 +0000      242 bytes  test/condense/requirejs_const.json</tspan>
+<tspan x="10" y="2986">185.  2017-04-20 00:32:49 +0000       93 bytes  test/condense/requirejs_dep.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-20 00:32:49 +0000      353 bytes  test/condense/requirejs_dep.json</tspan>
+<tspan x="10" y="3018">187.  2017-04-20 00:32:49 +0000       47 bytes  test/condense/requirejs_empty_deps.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-20 00:32:49 +0000      257 bytes  test/condense/requirejs_empty_deps.json</tspan>
+<tspan x="10" y="3050">189.  2017-04-20 00:32:49 +0000       40 bytes  test/condense/requirejs_primitive.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-20 00:32:49 +0000      124 bytes  test/condense/requirejs_primitive.json</tspan>
+<tspan x="10" y="3082">191.  2017-04-20 00:32:49 +0000       43 bytes  test/condense/requirejs_setup.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-20 00:32:49 +0000      247 bytes  test/condense/requirejs_setup.json</tspan>
+<tspan x="10" y="3114">193.  2017-04-20 00:32:49 +0000      103 bytes  test/condense/uniontype.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-20 00:32:49 +0000      196 bytes  test/condense/uniontype.json</tspan>
+<tspan x="10" y="3146">195.  2017-04-20 00:32:49 +0000     6846 bytes  test/data/large.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-20 00:32:49 +0000     2062 bytes  test/fragments.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-20 00:32:49 +0000     3737 bytes  test/reload.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-20 00:32:49 +0000     7681 bytes  test/runcases.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-20 00:32:49 +0000      766 bytes  test/timeout.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-20 00:32:49 +0000      983 bytes  test/util.js</tspan>
+</text>
+</svg>
